@@ -1,13 +1,10 @@
-﻿
-/*Navbar style*/
-nav#navvy.navbar.navbar-static-top{
-    margin-bottom:0px;
-    background-color:#6A1525;
- 
+﻿.navbar {
+    color: #5009FF;
 }
-#navvy a {
-    color:#FFF6F0;
+.navHeader {
+    color: #5009FF;
 }
-#navvy a:hover{
-    background:none;
+.logo{
+    float: left;
 }
+
