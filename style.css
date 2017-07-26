@@ -1,10 +1,49 @@
-﻿.navbar {
-    color: #5009FF;
+﻿.nav-default{
+ background-color: #677087;
+padding-left:2em;
+padding-top:2em;
+height: 50px;
 }
-.navHeader {
-    color: #5009FF;
+
+ul {
+    list-style-type: none;
+    margin: 0px 0px 0px 0px;
+    padding:2em;
+    overflow: hidden;
+    
+}
+
+li {
+    float: right;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 50px 20px 5px;
+    text-decoration: none;
+}
+
+.stubborn {
+    list-style-type: none;
+    margin: -39px 5px 7px 5px;
+    padding: 0px 0px 0px 0px;
+    overflow: hidden;
 }
 .logo{
-    float: left;
+    margin:-20px 0px 0px 0px;
 }
+  
+
+    
+    
+
+
+}
+
+
+
+
 
