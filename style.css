@@ -35,13 +35,22 @@ li a {
 .logo{
     margin:-20px 0px 0px 0px;
 }
+  .pic1{
+      padding: 0px 0px 0px 0px;
+      width:450px;
+      height:344px;
+  }
+  .pic2{
+      padding:0px 0px 0px 0px;
+      width:934px;
+      height:344px;
+      max-width:200%;
+  }
   
-
-    
     
 
 
-}
+
 
 
 
